@@ -1,0 +1,11 @@
+{
+  "name": "@thejsguy-rn-uikit/button",
+  "version": "0.0.1-alpha.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.4"
+  }
+}

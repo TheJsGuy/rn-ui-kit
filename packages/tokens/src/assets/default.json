@@ -1,0 +1,53 @@
+{
+    "colors": {
+        "primary": "#fff",
+        "default": "#3dc0fd",
+        "secondary": "#3cc1fe",
+        "tertiary": "#5260ff",
+        "actions": {
+            "success": "#2ed36e",
+            "warning": "#ffc309",
+            "danger": "#eb445a"
+        },
+        "shades": {
+            "bright": "#fff",
+            "dark": "#000",
+            "gray-100": "#f4f5f8",
+            "gray-500": "#91949c",
+            "gray-1000": "#212428"
+        }
+    },
+    "padding": {
+        "button": {
+            "default": {
+                "top": "0",
+                "left": "1em",
+                "right": "1em",
+                "bottom": "0"
+            },
+            "sm": {
+                "top": "0",
+                "left": "0.9em",
+                "right": "0.9em",
+                "bottom": "0"
+            },
+            "md": {
+                "top": "0",
+                "left": "0.9em",
+                "right": "0.9em",
+                "bottom": "0"
+            },
+            "lg": {
+                "top": "0",
+                "left": "1em",
+                "right": "1em",
+                "bottom": "0"
+            }
+        }
+    },
+    "font": {
+        "base": "13px",
+        "md": "1.2em",
+        "lg": "1.5em"
+    }
+}

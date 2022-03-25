@@ -1,0 +1,10 @@
+{
+  "name": "@thejsguy-rn-uikit/tokens",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.4"
+  }
+}

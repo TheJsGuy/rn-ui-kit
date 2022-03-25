@@ -1,0 +1,13 @@
+{
+  "name": "thejsguy-rn-uikit",
+  "private": true,
+  "version": "1.0.0",
+  "repository": "git@github.com:thejsguy/rn-ui-kit.git",
+  "author": "Aman Kumar Saini",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "yarn --cwd taskbox storybook",
+    "start": "yarn --cwd taskbox start"
+  },
+  "workspaces": ["packages/*"]
+}
